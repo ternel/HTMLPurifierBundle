@@ -8,6 +8,6 @@ class ExerciseHTMLPurifierBundle extends Bundle
 {
     public function boot()
     {
-        new \HTMLPurifier_Bootstrap();
+        //new \HTMLPurifier_Bootstrap();
     }
 }
